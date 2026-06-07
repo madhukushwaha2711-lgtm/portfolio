@@ -1,0 +1,75 @@
+Create a modern, responsive, and professional personal portfolio website for Madhu Kushwaha, a Computer Science and Engineering student at Shri Ramswaroop College of Engineering and Management.
+
+Personal Information
+Name: Madhu Kushwaha
+Degree: B.Tech in Computer Science & Engineering (Core)
+College: Shri Ramswaroop College of Engineering and Management
+Current Percentage: 75.8%
+Email: madhukushwaha2711@gmail.com
+Phone: +91 9569102711
+Website Sections
+1. Hero Section
+Professional introduction
+Heading: "Hi, I'm Madhu Kushwaha"
+Subheading: "Computer Science Engineering Student & Aspiring Software Developer"
+Call-to-action buttons:
+Download Resume
+Contact Me
+2. About Me
+
+Write a professional summary:
+
+Motivated and detail-oriented Computer Science & Engineering student with a strong foundation in Python, HTML, and CSS. Passionate about software development, problem-solving, and learning emerging technologies. Seeking opportunities to apply technical skills to real-world projects and contribute to innovative solutions.
+
+3. Education
+B.Tech in Computer Science & Engineering
+Shri Ramswaroop College of Engineering and Management
+Current Percentage: 75.8%
+4. Skills
+
+Display skills in attractive cards:
+
+Python
+HTML5
+CSS3
+C Programming
+Computer Networks
+DBMS
+Problem Solving
+Communication Skills
+5. Projects
+
+Create project cards with descriptions:
+
+Portfolio Website
+Student Management System
+Dictionary Translation Program (English to Hindi)
+Networking Mini Projects
+6. Certifications
+
+Add a section for certificates with placeholders for future uploads.
+
+7. Resume Section
+Resume preview
+Download Resume button
+8. Contact Section
+Email: madhukushwaha2711@gmail.com
+Phone: +91 9569102711
+Contact Form
+Social Media Icons (LinkedIn, GitHub, Instagram)
+Design Requirements
+Modern UI with smooth animations
+Fully responsive for mobile, tablet, and desktop
+Dark and light mode toggle
+Clean navigation bar
+Professional color scheme (blue, white, and dark gray)
+Smooth scrolling
+Attractive cards and hover effects
+Footer with copyright information
+Technical Requirements
+Use HTML, CSS, and JavaScript
+SEO-friendly structure
+Fast loading speed
+Accessible design
+Well-commented code
+Modern fonts and icons
